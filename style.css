@@ -1,0 +1,32 @@
+body {background-color:gray}
+#container {background-color: honeydew;
+    width:800px;
+    margin-left: auto;
+margin-right: auto;
+}
+#header {background-color:#66CCFF;
+    text-align:center;
+    font-weight: 900px;
+    padding: 0%;
+color:rgb(22, 20, 20);}
+#content {padding:10px;
+
+}
+#nav {width:180px;
+float: left;
+}
+#main {width: 600px;
+float: right;
+text-align:justify}
+#footer {
+    clear: both;
+    text-align:center;
+    padding: 10px;
+    background-color: black;
+    color:chocolate;
+}
+ul{list-style-type: none;
+}
+ul li a{text-decoration: none;
+color:red;
+font-weight:bold;}
